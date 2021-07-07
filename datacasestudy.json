@@ -1,0 +1,152 @@
+[
+    {
+        "ID": "01",
+        "PRODUCTNAME": "Model S",
+        "GRAPHICNAME": "models.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Tesla"
+    },
+    {
+        "ID": "02",
+        "PRODUCTNAME": "Model 3",
+        "GRAPHICNAME": "model3.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Tesla"
+    },
+    {
+        "ID": "03",
+        "PRODUCTNAME": "Model X",
+        "GRAPHICNAME": "modelx.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Tesla"
+    },
+    {
+        "ID": "04",
+        "PRODUCTNAME": "Model Y",
+        "GRAPHICNAME": "modely.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Tesla"
+    },
+    {
+        "ID": "05",
+        "PRODUCTNAME": "Roadster",
+        "GRAPHICNAME": "roadster.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Tesla"
+    },
+    {
+        "ID": "06",
+        "PRODUCTNAME": "Civic",
+        "GRAPHICNAME": "hondacivic.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Honda"
+    },
+    {
+        "ID": "07",
+        "PRODUCTNAME": "hondaaccord",
+        "GRAPHICNAME": "hondacivic.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Honda"
+    },
+    {
+        "ID": "08",
+        "PRODUCTNAME": "Odyssey",
+        "GRAPHICNAME": "hondaodyssey.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Honda"
+    },
+    {
+        "ID": "09",
+        "PRODUCTNAME": "Pilot",
+        "GRAPHICNAME": "hondapilot.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Honda"
+    },
+    {
+        "ID": "10",
+        "PRODUCTNAME": "Clarity",
+        "GRAPHICNAME": "hondaclarity.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Honda"
+    },
+    {
+        "ID": "11",
+        "PRODUCTNAME": "C-Class",
+        "GRAPHICNAME": "benzcclass.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Mercedes Benz"
+    },
+    {
+        "ID": "12",
+        "PRODUCTNAME": "S-Class",
+        "GRAPHICNAME": "benzsclass.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Mercedes Benz"
+    },
+    {
+        "ID": "13",
+        "PRODUCTNAME": "E-Class",
+        "GRAPHICNAME": "benzeclass.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Mercedes Benz"
+    },
+    {
+        "ID": "14",
+        "PRODUCTNAME": "G-Class",
+        "GRAPHICNAME": "benzgclass.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Mercedes Benz"
+    },
+    {
+        "ID": "11",
+        "PRODUCTNAME": "GLC",
+        "GRAPHICNAME": "benzglc.png",
+        "COSTPRICE": 100000,
+        "MSRP": 9000000,
+        "QTYONHAND": 1000,
+        "QTYONBACKORDER": 1000,
+        "BRAND": "Mercedes Benz"
+    }
+]
