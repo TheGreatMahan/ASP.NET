@@ -7,7 +7,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Tesla"
+        "BRAND": "Tesla",
+        "DESCRIPTION": ""
     },
     {
         "ID": "02",
@@ -17,7 +18,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Tesla"
+        "BRAND": "Tesla",
+        "DESCRIPTION": ""
     },
     {
         "ID": "03",
@@ -27,7 +29,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Tesla"
+        "BRAND": "Tesla",
+        "DESCRIPTION": ""
     },
     {
         "ID": "04",
@@ -37,7 +40,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Tesla"
+        "BRAND": "Tesla",
+        "DESCRIPTION": ""
     },
     {
         "ID": "05",
@@ -47,7 +51,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Tesla"
+        "BRAND": "Tesla",
+        "DESCRIPTION": ""
     },
     {
         "ID": "06",
@@ -57,7 +62,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Honda"
+        "BRAND": "Honda",
+        "DESCRIPTION": ""
     },
     {
         "ID": "07",
@@ -67,7 +73,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Honda"
+        "BRAND": "Honda",
+        "DESCRIPTION": ""
     },
     {
         "ID": "08",
@@ -77,7 +84,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Honda"
+        "BRAND": "Honda",
+        "DESCRIPTION": ""
     },
     {
         "ID": "09",
@@ -87,7 +95,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Honda"
+        "BRAND": "Honda",
+        "DESCRIPTION": ""
     },
     {
         "ID": "10",
@@ -97,7 +106,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Honda"
+        "BRAND": "Honda",
+        "DESCRIPTION": ""
     },
     {
         "ID": "11",
@@ -107,7 +117,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Mercedes Benz"
+        "BRAND": "Mercedes Benz",
+        "DESCRIPTION": ""
     },
     {
         "ID": "12",
@@ -117,7 +128,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Mercedes Benz"
+        "BRAND": "Mercedes Benz",
+        "DESCRIPTION": ""
     },
     {
         "ID": "13",
@@ -127,7 +139,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Mercedes Benz"
+        "BRAND": "Mercedes Benz",
+        "DESCRIPTION": ""
     },
     {
         "ID": "14",
@@ -137,7 +150,8 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Mercedes Benz"
+        "BRAND": "Mercedes Benz",
+        "DESCRIPTION": ""
     },
     {
         "ID": "15",
@@ -147,6 +161,7 @@
         "MSRP": 9000000,
         "QTYONHAND": 1000,
         "QTYONBACKORDER": 1000,
-        "BRAND": "Mercedes Benz"
+        "BRAND": "Mercedes Benz",
+        "DESCRIPTION": ""
     }
 ]
